@@ -712,6 +712,17 @@ a.product-photo:hover img {
   color: var(--color-muted);
   font-size: 10px;
 }
+#anchor {
+  anchor-name: --anchor;
+}
+#label {
+  position: absolute;
+  top: anchor(bottom);
+  right: 50%;
+  width: max-content;
+  display: flex;
+  flex-direction: column;
+}
 
 @media (max-width: 900px) {
   .header-inner {
@@ -930,6 +941,10 @@ a.product-photo:hover img {
   }
   .form-field-wide {
     grid-column: auto;
+  }
+  #label {
+    right: 0;
+    height: auto;
   }
 }
 
