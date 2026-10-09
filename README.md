@@ -19,8 +19,4 @@ HTML5 sémantique et CSS3 natif (Flexbox, variables CSS et mises en page adaptat
 
 ## Lancer le site
 
-Ouvrir `index.html` dans un navigateur ou servir le dossier du dépôt avec un serveur statique. Les pages sont dans `docs/`, prêtes à être publiées sur GitHub Pages en choisissant le dossier `/root` comme source.
-
-## Formulaire
-
-Le formulaire utilise les contrôles natifs du navigateur pour valider les champs. La réception effective des demandes nécessite de connecter le formulaire à une adresse ou à un service de traitement avant le déploiement.
+https://bahaeaether.github.io/Thimdrine-site-vitrine-d-une-coop-rative-du-Rif/
