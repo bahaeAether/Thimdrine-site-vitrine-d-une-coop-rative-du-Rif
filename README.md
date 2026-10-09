@@ -19,7 +19,7 @@ HTML5 sémantique et CSS3 natif (Flexbox, variables CSS et mises en page adaptat
 
 ## Lancer le site
 
-Ouvrir `docs/index.html` dans un navigateur ou servir le dossier du dépôt avec un serveur statique. Les pages sont dans `docs/`, prêtes à être publiées sur GitHub Pages en choisissant le dossier `/docs` comme source.
+Ouvrir `index.html` dans un navigateur ou servir le dossier du dépôt avec un serveur statique. Les pages sont dans `docs/`, prêtes à être publiées sur GitHub Pages en choisissant le dossier `/root` comme source.
 
 ## Formulaire
 

@@ -47,8 +47,6 @@ textarea:focus-visible {
   margin: 0 auto;
 }
 .site-header {
-  position: relative;
-  z-index: 1;
   background: var(--color-line);
   border-bottom: 1px solid rgba(41, 71, 45, 0.1);
 }
@@ -63,7 +61,7 @@ textarea:focus-visible {
   gap: 32px;
 }
 .brand {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   gap: 11px;
   color: var(--color-forest);
