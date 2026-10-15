@@ -117,12 +117,13 @@ textarea:focus-visible {
   bottom: 1px;
   left: 0;
   height: 1px;
+  width: 100%;
   background: var(--color-forest);
   content: "";
 }
 .button {
   min-height: 48px;
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   gap: 14px;
@@ -257,16 +258,16 @@ h1 {
   bottom: 1px;
   left: 1px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   gap: 12px;
   padding: 10px 13px;
   border-radius: 2px;
-  background: rgba(255, 253, 246, 0.93);
+  background: rgba(255, 253, 246, 0.63);
   color: var(--color-forest-dark);
-  font-size: 11px;
+  font-size: 10px;
 }
 .intro-band {
-  padding-block: 42px;
+  padding: 42px;
   background: var(--color-cream);
 }
 .intro-inner {
